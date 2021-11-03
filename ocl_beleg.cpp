@@ -1,5 +1,6 @@
 #include <iostream>
 #include <CL/cl.hpp>
+#include "png.h"
 
 int main() {
     //get all platforms (drivers)
