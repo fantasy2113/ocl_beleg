@@ -3,6 +3,8 @@
 #include "png.h"
 
 int main() {
+
+
     //get all platforms (drivers)
     std::vector<cl::Platform> all_platforms;
     cl::Platform::get(&all_platforms);
